@@ -3,7 +3,9 @@
 - Learning some python for now 📚
 
 - 🌐 B2 English C2 Portuguese A2 Spanish A1 Japonese
-  
+
+- Goats everywhere!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/lucas_nicolau06" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-Badge"></a>
